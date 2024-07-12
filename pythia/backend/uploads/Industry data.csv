@@ -1,0 +1,44 @@
+Industry,Industry_Id
+Accounting/Finance,1
+Advertising/Public Relations,2
+Aerospace/Aviation,3
+Arts/Entertainment/Publishing,1
+Automotive,2
+Banking/Mortgage,3
+Business Development,1
+Business Opportunity,2
+Clerical/Administrative,3
+Construction/Facilities,1
+Consumer Goods,2
+Customer Service,3
+Education/Training,1
+Energy/Utilities,2
+Engineering,3
+Government/Military,1
+Green,2
+Healthcare,3
+Hospitality/Travel,1
+Human Resources,2
+Installation/Maintenance,3
+Insurance,1
+Internet,2
+Job Search Aids,3
+Law Enforcement/Security,1
+Legal,2
+Management/Executive,3
+Manufacturing/Operations,1
+Marketing,2
+Non-Profit/Volunteer,3
+Pharmaceutical/Biotech,1
+Professional Services,2
+QA/Quality Control,3
+Real Estate,1
+Restaurant/Food Service,2
+Retail,3
+Sales,1
+Science/Research,2
+Skilled Labor,3
+Technology,1
+Telecommunications,2
+Transportation/Logistics,3
+Other,0
